@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+    <img src="asstes\my logopng.png" width = 250rem/>
+    <h2 align="center">Abod1960</h2>
+</p>
+<h1> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<!--
-**Abod1960/Abod1960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some randome projects.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on small projects!
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Web Devlopment
+- 📫 How to reach me: [abod1960@gmail.com](mailto:abod1960@gmail.com)
+- 😄 Pronouns: Supercalifragilisticexpialidocious
+- ⚡ Fun fact: Bigger Forks 🍴 Lead You to Eat Less!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
