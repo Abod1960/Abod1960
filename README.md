@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on some randome projects.
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on small projects!<!--
-- 🤔 I’m looking for help with -->
+- 👯 I’m looking to collaborate on small projects!<!-- 🤔 I’m looking for help with -->
 - 💬 Ask me about Web Devlopment
 - 📫 How to reach me: [abod1960@gmail.com](mailto:abod1960@gmail.com)
 - 😄 Pronouns: Supercalifragilisticexpialidocious
