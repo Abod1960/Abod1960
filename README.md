@@ -10,6 +10,7 @@
 <p>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 </p>
+<br>
 
 - 🔭 I’m currently working on some randome projects.
 - 🌱 I’m currently learning Python.
