@@ -1,6 +1,6 @@
 <p align="center">
     <img src="asstes\fav-icon.png" width = 150rem/>
-    <h2 align="center">Abod1960</h2>
+
 </p>
 <h1> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
