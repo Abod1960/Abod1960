@@ -5,12 +5,11 @@
 <h1> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
-	<a href="https://readme-typing-svg.herokuapp.com/demo/"> <img alt = "Abod1960's GitHub stats" src="https://readme-typing-svg.herokuapp.com?font=rubik&color=ADBAC7&center=true&vCenter=true&lines=I'm+a+student+Digital+Artist.;I'm+a+student+Programmer.;I'm+a+student+Graphic+Designer.;I'm+Blogger.;I'm+a+Translator.;I'm+a+student+Film+Maker.;I'm+a+Customization+Enthusiast.;and+I'm++leaning+new+things+every+day">
+	<a> <img alt = "Abod1960's GitHub stats" src="https://readme-typing-svg.herokuapp.com?font=rubik&color=ADBAC7&center=true&vCenter=true&lines=I'm+a+student+Digital+Artist.;I'm+a+student+Programmer.;I'm+a+student+Graphic+Designer.;I'm+Blogger.;I'm+a+Translator.;I'm+a+student+Film+Maker.;I'm+a+Customization+Enthusiast.;and+I'm++leaning+new+things+every+day">
 </p>
-
+<p>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-<br>
-<br>
+</p>
 
 - 🔭 I’m currently working on some randome projects.
 - 🌱 I’m currently learning Python.
