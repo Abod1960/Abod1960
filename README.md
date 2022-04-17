@@ -32,7 +32,7 @@
 </p>
 -->
 <br>
-<details><summary><h2> Hi there I'm Abod1960 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2></summary>
+<details><summary><h2> Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </h2></summary>
 
 <p align="center" style="display: flex; flex-direction: row;">
 	<a style="padding-right:1rem; " href="https://github.com/anuraghazra/github-readme-stats"> <img width="420px" alt = "Abod1960's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abod1960&show_icons=true&bg_color=252b33&title_color=539bf5&text_color=768390&icon_color=539bf5&cache_seconds=86400&border_color=22272e"><a href="https://git.io/streak-stats"> <img width="420px" alt = "GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abod1960&date_format=M%20j%5B%2C%20Y%5D&background=252B33&dates=9AA6B272&currStreakNum=ABBDD0&sideNums=94A4B4&sideLabels=ADBAC7&ring=4c89d6&fire=4c89d6&currStreakLabel=4c89d6&border=22272E">
