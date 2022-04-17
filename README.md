@@ -29,6 +29,9 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 -->
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"> <img alt = "Abod1960's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abod1960&show_icons=true&bg_color=252b33&title_color=539bf5&text_color=768390&icon_color=539bf5&cache_seconds=86400&border_color=22272e">
+<br>
+
+<p align="center" style="display: flex; flex-direction: row; justify-content: space-between;">
+	<a style="padding-right:5rem; " href="https://github.com/anuraghazra/github-readme-stats"> <img alt = "Abod1960's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abod1960&show_icons=true&bg_color=252b33&title_color=539bf5&text_color=768390&icon_color=539bf5&cache_seconds=86400&border_color=22272e"><br>	
+	<a href="https://git.io/streak-stats"> <img alt = "GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abod1960&date_format=M%20j%5B%2C%20Y%5D&background=252B33&dates=9AA6B272&currStreakNum=ABBDD0&sideNums=94A4B4&sideLabels=ADBAC7&ring=4c89d6&fire=4c89d6&currStreakLabel=4c89d6&border=22272E">
 </p>
