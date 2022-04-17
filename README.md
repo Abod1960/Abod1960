@@ -2,7 +2,7 @@
     <img src="asstes\fav-icon.png" width = 150rem/>
 
 </p>
-<h1 align="center"> Hi there I'm Abod1960 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Hi there, I'm Abod1960 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
 	<a> <img alt = "Abod1960's GitHub stats" src="https://readme-typing-svg.herokuapp.com?font=rubik&color=ADBAC7&center=true&vCenter=true&lines=I'm+a+student+Digital+Artist.;I'm+a+student+Programmer.;I'm+a+student+Graphic+Designer.;I'm+a+Blogger.;I'm+a+Translator.;I'm+a+student+Film+Maker.;I'm+a+Customization+Enthusiast.;and+I'm++leaning+new+things+every+day🤞"></a>
