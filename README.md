@@ -35,13 +35,15 @@
 <details><summary><h2> 🚧 Github stats </h2></summary>
 
 <p align="center" style="display: flex; flex-direction: row;">
-	<a style="padding-right:1rem; " href="https://github.com/anuraghazra/github-readme-stats"> <img width="420px" alt = "Abod1960's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abod1960&show_icons=true&bg_color=252b33&title_color=539bf5&text_color=768390&icon_color=539bf5&cache_seconds=86400&border_color=22272e"></a><a href="https://git.io/streak-stats"> <img width="420px" alt = "GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abod1960&date_format=M%20j%5B%2C%20Y%5D&background=252B33&dates
-	=9AA6B272&currStreakNum=ABBDD0&sideNums=94A4B4&sideLabels=ADBAC7&ring=4c89d6&fire=4c89d6&currStreakLabel=4c89d6&border=22272E"></a>
+	<a style="padding-right:1rem; " href="https://github.com/anuraghazra/github-readme-stats"> <img width="420px" alt = "Abod1960's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abod1960&show_icons=true&bg_color=252b33&title_color=539bf5&text_color=768390&icon_color=539bf5&cache_seconds=86400&border_color=22272e"></a><a href="https://git.io/streak-stats"> <img width="420px" alt = "GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abod1960&date_format=M%20j%5B%2C%20Y%5D&background=252B33&dates=9AA6B272&currStreakNum=ABBDD0&sideNums=94A4B4&sideLabels=ADBAC7&ring=4c89d6&fire=4c89d6&currStreakLabel=4c89d6&border=22272E"></a>
 </p>
 </details>
-
-<details><summary><h2> 🚧 Github stats </h2></summary>
+<details><summary><h2> 🛠 Tools </h2></summary>
 <p align="center" style="display: flex; flex-direction: row;">
-	<a style="padding-right:1rem; " href="https://github.com/anuraghazra/github-readme-stats"> <img width="420px" alt = "Abod1960's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abod1960&show_icons=true&bg_color=252b33&title_color=539bf5&text_color=768390&icon_color=539bf5&cache_seconds=86400&border_color=22272e"><a href="https://git.io/streak-stats"> <img width="420px" alt = "GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abod1960&date_format=M%20j%5B%2C%20Y%5D&background=252B33&dates=9AA6B272&currStreakNum=ABBDD0&sideNums=94A4B4&sideLabels=ADBAC7&ring=4c89d6&fire=4c89d6&currStreakLabel=4c89d6&border=22272E">
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "vs code" src="https://lh4.googleusercontent.com/vjk2fo46CX9IhM3F-M6D4yW8V2bYWEokyv_ELwM6TZT7IHQl_AeUa6HPNoL7Urk6LbuS99Zm7B1r42uVkiso=w1885-h961-rw">
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Github" src="https://lh5.googleusercontent.com/XC3T7JYWRqOCv1PM4xW2tkwT3s_yDIPCvB5aIeC_4jAo7N1FUyjSDE6V9_axbrj841FRqaVNPR7vaeZIZ2bB=w1330-h961-rw">
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Dreamweaver" src="https://lh5.googleusercontent.com/ZnrFezLyX5JAIxODcv4VPG8k6AeaCQfqh4U21wLBkyJAor87vJ3tuipkW-X0hEe-De9-NDY_gU9no21FHBnp=w1885-h961-rw">
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Photoshop" src="https://lh5.googleusercontent.com/o8FXG1VBcy6gkEe3QY_AijSJpqCOtok8kPjgsgsXsGFqUL1bNjSeaKxtKYmlj1ImVzPxiS_zuUVnTUk_jXuj=w1885-h961-rw">
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Illustrator" src="https://lh3.googleusercontent.com/KdDRWN6e2m4uKRqpRMWipw0vx4FUBvv22PwJqX0yecurTQVoSJ7s8HdVMLj45qtARmptQOngh-Nt-DFt1LRa=w1330-h961-rw">
 </p>
 </details>
