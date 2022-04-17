@@ -40,11 +40,21 @@
 </details>
 <details><summary><h2> 🛠 Tools </h2></summary>
 <p align="center" style="display: flex; flex-direction: row;">
-	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "vs code" src="https://lh4.googleusercontent.com/vjk2fo46CX9IhM3F-M6D4yW8V2bYWEokyv_ELwM6TZT7IHQl_AeUa6HPNoL7Urk6LbuS99Zm7B1r42uVkiso=w1885-h961-rw">
-	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Github" src="https://lh5.googleusercontent.com/XC3T7JYWRqOCv1PM4xW2tkwT3s_yDIPCvB5aIeC_4jAo7N1FUyjSDE6V9_axbrj841FRqaVNPR7vaeZIZ2bB=w1330-h961-rw">
-	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Python" src="https://lh4.googleusercontent.com/RBSlzGKHX_lD4loKubw7uC8H_hbh41M3vJ1Z2rXJ3rLRvNxJ4h9r9Ji__9_YNmIkxI2wthdftdBzlPIbk2nh=w1885-h961-rw">
-	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Dreamweaver" src="https://lh5.googleusercontent.com/ZnrFezLyX5JAIxODcv4VPG8k6AeaCQfqh4U21wLBkyJAor87vJ3tuipkW-X0hEe-De9-NDY_gU9no21FHBnp=w1885-h961-rw">
-	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Photoshop" src="https://lh5.googleusercontent.com/o8FXG1VBcy6gkEe3QY_AijSJpqCOtok8kPjgsgsXsGFqUL1bNjSeaKxtKYmlj1ImVzPxiS_zuUVnTUk_jXuj=w1885-h961-rw">
-	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Illustrator" src="https://lh3.googleusercontent.com/KdDRWN6e2m4uKRqpRMWipw0vx4FUBvv22PwJqX0yecurTQVoSJ7s8HdVMLj45qtARmptQOngh-Nt-DFt1LRa=w1330-h961-rw">
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "vs code" src="https://lh4.googleusercontent.com/vjk2fo46CX9IhM3F-M6D4yW8V2bYWEokyv_ELwM6TZT7IHQl_AeUa6HPNoL7Urk6LbuS99Zm7B1r42uVkiso=w1885-h961-rw"></a>
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Github" src="https://lh5.googleusercontent.com/XC3T7JYWRqOCv1PM4xW2tkwT3s_yDIPCvB5aIeC_4jAo7N1FUyjSDE6V9_axbrj841FRqaVNPR7vaeZIZ2bB=w1330-h961-rw"></a>
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Python" src="https://lh4.googleusercontent.com/RBSlzGKHX_lD4loKubw7uC8H_hbh41M3vJ1Z2rXJ3rLRvNxJ4h9r9Ji__9_YNmIkxI2wthdftdBzlPIbk2nh=w1885-h961-rw"></a>
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Dreamweaver" src="https://lh5.googleusercontent.com/ZnrFezLyX5JAIxODcv4VPG8k6AeaCQfqh4U21wLBkyJAor87vJ3tuipkW-X0hEe-De9-NDY_gU9no21FHBnp=w1885-h961-rw"></a>
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Photoshop" src="https://lh5.googleusercontent.com/o8FXG1VBcy6gkEe3QY_AijSJpqCOtok8kPjgsgsXsGFqUL1bNjSeaKxtKYmlj1ImVzPxiS_zuUVnTUk_jXuj=w1885-h961-rw"></a>
+	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Illustrator" src="https://lh3.googleusercontent.com/KdDRWN6e2m4uKRqpRMWipw0vx4FUBvv22PwJqX0yecurTQVoSJ7s8HdVMLj45qtARmptQOngh-Nt-DFt1LRa=w1330-h961-rw"></a>
 </p>
 </details>
+<details><summary><h2> 🧭 Languages and commits </h2></summary>
+<p align="center" style="display: flex; flex-direction: row;">
+	
+![](https://raw.githubusercontent.com/Abod1960/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Abod1960/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+
+</p>
+</details>
+
+
