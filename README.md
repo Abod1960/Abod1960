@@ -50,9 +50,8 @@
 </details>
 <details><summary><h2> 🧭 Languages and commits </h2></summary>
 <p align="center" style="display: flex; flex-direction: row;">
-	
-![](https://raw.githubusercontent.com/Abod1960/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Abod1960/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+	<a style="padding-right:1rem; " href="#"> <img width="420px" alt = "" src="https://raw.githubusercontent.com/Abod1960/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg"></a>
+	<a style="padding-right:1rem; " href="#"> <img width="420px" hight="350" alt = "" src="https://raw.githubusercontent.com/Abod1960/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg"></a>
 
 </p>
 </details>
