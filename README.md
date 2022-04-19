@@ -35,7 +35,11 @@
 <details><summary><h2> 🚧 Github stats </h2></summary>
 
 <p align="center" style="display: flex; flex-direction: row;">
-	<a style="padding-right:1rem; " href="https://github.com/anuraghazra/github-readme-stats"> <img width="420px" alt = "Abod1960's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abod1960&show_icons=true&bg_color=252b33&title_color=539bf5&text_color=768390&icon_color=539bf5&cache_seconds=86400&border_color=22272e"></a><a href="https://git.io/streak-stats"> <img width="420px" alt = "GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abod1960&date_format=M%20j%5B%2C%20Y%5D&background=252B33&dates=9AA6B272&currStreakNum=ABBDD0&sideNums=94A4B4&sideLabels=ADBAC7&ring=4c89d6&fire=4c89d6&currStreakLabel=4c89d6&border=22272E"></a>
+	<img width="840" src="https://metrics.lecoq.io/Abod1960?template=classic&base.header=0&languages=1&achievements=1&tweets=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=20&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&tweets.attachments=true&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FDubai">
+<!--
+	<a style="padding-right:1rem; " href="https://github.com/anuraghazra/github-readme-stats"> <img width="420px" alt = "Abod1960's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abod1960&show_icons=true&bg_color=252b33&title_color=539bf5&text_color=768390&icon_color=539bf5&cache_seconds=86400&border_color=22272e"></a>
+	<a href="https://git.io/streak-stats"> <img width="420px" alt = "GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abod1960&date_format=M%20j%5B%2C%20Y%5D&background=252B33&dates=9AA6B272&currStreakNum=ABBDD0&sideNums=94A4B4&sideLabels=ADBAC7&ring=4c89d6&fire=4c89d6&currStreakLabel=4c89d6&border=22272E"></a>
+-->
 </p>
 </details>
 <details><summary><h2> 🛠 Tools </h2></summary>
@@ -47,6 +51,7 @@
 	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Photoshop" src="https://lh5.googleusercontent.com/o8FXG1VBcy6gkEe3QY_AijSJpqCOtok8kPjgsgsXsGFqUL1bNjSeaKxtKYmlj1ImVzPxiS_zuUVnTUk_jXuj=w1885-h961-rw"></a>
 	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "Adobe Illustrator" src="https://lh3.googleusercontent.com/KdDRWN6e2m4uKRqpRMWipw0vx4FUBvv22PwJqX0yecurTQVoSJ7s8HdVMLj45qtARmptQOngh-Nt-DFt1LRa=w1330-h961-rw"></a>
 </p>
+	
 </details>
 <details><summary><h2> 🧭 Languages and commits </h2></summary>
 <p align="center" style="display: flex; flex-direction: row;">
