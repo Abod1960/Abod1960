@@ -42,6 +42,7 @@
 -->
 </p>
 </details>
+<!-- 
 <details><summary><h2> 🛠 Tools </h2></summary>
 <p align="center" style="display: flex; flex-direction: row;">
 	<a style="padding-right:1rem; " href="#"> <img width="90px" alt = "vs code" src="https://lh4.googleusercontent.com/vjk2fo46CX9IhM3F-M6D4yW8V2bYWEokyv_ELwM6TZT7IHQl_AeUa6HPNoL7Urk6LbuS99Zm7B1r42uVkiso=w1885-h961-rw"></a>
@@ -59,6 +60,6 @@
 	<a style="padding-right:1rem; " href="#"> <img width="420px" hight="350" alt = "" src="https://raw.githubusercontent.com/Abod1960/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg"></a>
 
 </p>
-</details>
+</details> -->
 
 
